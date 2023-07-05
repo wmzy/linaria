@@ -1,5 +1,12 @@
 # Change Log
 
+## 4.3.9
+
+### Patch Changes
+
+- Updated dependencies [2e04e4c3]
+  - @linaria/vite@4.2.12
+
 ## 4.3.8
 
 ### Patch Changes

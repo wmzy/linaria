@@ -1,5 +1,11 @@
 # Change Log
 
+## 4.1.18
+
+### Patch Changes
+
+- @linaria/rollup@4.3.9
+
 ## 4.1.17
 
 ### Patch Changes

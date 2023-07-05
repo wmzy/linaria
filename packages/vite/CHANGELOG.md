@@ -1,5 +1,11 @@
 # @linaria/vite
 
+## 4.2.12
+
+### Patch Changes
+
+- 2e04e4c3: Fix vite css `url()` resolve error
+
 ## 4.2.11
 
 ### Patch Changes
